@@ -62,7 +62,7 @@ Run the steps below on your own computer (not on the router) to retrieve the new
 
 1. Make a local clone of the git repository (if you have not already):
 
-    `git clone https://github.com/tohojo/sqm-scripts`
+    `git clone https://github.com/xAJx1383/sqm-scripts`
 
 2. Change into the new directory:
 
